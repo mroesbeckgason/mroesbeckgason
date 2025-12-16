@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning as much as I can about anything cybersecurity
+- 📫 How to reach me: masongroesbeck@gmail.cpm
+- 😄 Pronouns: He/Him
+
+
 <!--
 **mroesbeckgason/mroesbeckgason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
