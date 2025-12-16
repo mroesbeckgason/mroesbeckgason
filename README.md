@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning as much as I can about anything cybersecurity
-- 📫 How to reach me: masongroesbeck@gmail.cpm
 - 😄 Pronouns: He/Him
 
 
