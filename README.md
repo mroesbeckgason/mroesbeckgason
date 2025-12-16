@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning as much as I can about anything cybersecurity
+- 📫 Please feel free to reach out with any questions.
+- 🔭 I’m currently looking for opportunities to gain any related experience.
 - 😄 Pronouns: He/Him
 
 
